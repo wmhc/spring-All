@@ -12,6 +12,7 @@
         <module>com.hc.spring-01</module>
         <module>spring-02-helloSpring</module>
         <module>spring-03-autowired</module>
+        <module>spring-04-config</module>
     </modules>
 
     <dependencies>
